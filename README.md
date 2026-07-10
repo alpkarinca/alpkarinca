@@ -27,8 +27,8 @@ Chairman | Feb 2025 – June 2026
 * **Competitive Programming:** Competed in a high-intensity, international 24-hour continuous coding competition (IEEEXtreme), tackling complex algorithmic challenges under strict constraints.
 
 🛠 Skills & Interests
-* **Languages: Turkish (Native), English (Professional)
-* **Programming: JavaScript, Java, SQL, HTML, CSS
-* **Frameworks & Libraries: React, React Native, Expo, Node.js
-* **Tools & Platforms: Git, GitHub, VS Code, Windows, macOS
+* Languages: Turkish (Native), English (Professional)
+* Programming: JavaScript, Java, SQL, HTML, CSS
+* Frameworks & Libraries: React, React Native, Expo, Node.js
+* Tools & Platforms: Git, GitHub, VS Code, Windows, macOS
 * Professional Interests: Backend Systems Architecture, Cloud Computing & Analytics, Database Orchestration, Distributed Systems, System Design
