@@ -31,4 +31,4 @@ Chairman | Feb 2025 – June 2026
 * **Programming: JavaScript, Java, SQL, HTML, CSS
 * **Frameworks & Libraries: React, React Native, Expo, Node.js
 * **Tools & Platforms: Git, GitHub, VS Code, Windows, macOS
-* **Professional Interests: Backend Systems Architecture, Cloud Computing & Analytics, Database Orchestration, Distributed Systems, System Design
+* Professional Interests: Backend Systems Architecture, Cloud Computing & Analytics, Database Orchestration, Distributed Systems, System Design
