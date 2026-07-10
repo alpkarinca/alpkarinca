@@ -17,9 +17,8 @@ IEEE Computer Society ESTU | Eskişehir, Türkiye
 Chairman | Feb 2025 – June 2026
 
 👥 Committee & Team Management
-* **Executive Leadership:** Directing and mentoring the core computer society committee team, overseeing strategic task distribution and agile performance tracking.
+* **Executive Leadership:** Directing and mentoring the core computer society committee team.
 * **Editorial & Content Governance:** Managing and leading the "CS Medium" editorial team, supervising technical content pipelines, research articles, and publication schedules.
-* **Corporate Reporting:** Engineering comprehensive operational reports, milestone documentation, and performance audits for upper-level club governance.
 * **Educational Operations:** Curated and organized targeted technical workshops, "Tea-Talk" networking sessions, and fundamental engineering bootcamps.
 
 🏛️ Club-Wide Logistics & Technical Execution
