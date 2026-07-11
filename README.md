@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Alp Karınca
 
-Software Engineer | Computer Engineering Student 📍 Eskişehir, Türkiye
-📧 alpkarinca@gmail.com
+Software Engineer | Computer Engineering Student 📍 Eskişehir, Türkiye <br>
+📧 alpkarinca@gmail.com <br>
 🔗 [LinkedIn](https://linkedin.com/in/alpkarinca)
 
 ---
 
 🎓 Education
 
-Eskişehir Technical University | Eskişehir, Türkiye
-B.S. in Computer Engineering
-Sep 2024 – Present | Expected Graduation: 2028
+Eskişehir Technical University | Eskişehir, Türkiye <br>
+B.S. in Computer Engineering <br>
+Sep 2024 – Present | Expected Graduation: 2028 <br>
 GPA: 3.81/4.00
 
 ---
