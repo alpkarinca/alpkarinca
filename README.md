@@ -17,7 +17,7 @@ GPA: 3.81/4.00
 
 💼 Experience
 
-IEEE Computer Society ESTU | Eskişehir, Türkiye
+IEEE Computer Society ESTU | Eskişehir, Türkiye <br>
 Chairman | Feb 2025 – June 2026
 
 👥 Committee & Team Management
